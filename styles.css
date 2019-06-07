@@ -57,7 +57,7 @@ a:hover {
 
 header {
   text-align: center;
-  background: url('images/myhome.jpg') no-repeat  center ;
+  background: url('images/lvbaby.jpg') no-repeat  center ;
   background-size: cover;
   overflow: hidden;
   padding-top: 60px;
@@ -175,7 +175,6 @@ a.social:hover {
       display: flex; 
       max-width: 1200px;
       -ms-flex-pack: distribute;
-      justify-content: space-around;
       margin: 0 auto;
   }
 
